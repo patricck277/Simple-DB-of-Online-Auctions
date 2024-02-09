@@ -1,6 +1,8 @@
 # Simple-DB-of-Online-Auctions
 Simple Database (PL)  for online auctions: Manage users, items, bids &amp; auto-update "Buy Now" prices. Seamlessly integrate with web/mobile apps. Built with Microsoft SQL Server. Ideal for e-commerce platforms, ensuring reliable transaction processing.
 
+(( Tables, functions, triggers, etc. have been added to the DB in the Polish language ))
+
 Database of Online Auctions
 This database project is tailored for managing online auction systems, facilitating efficient user management, item listings, bid submissions, and automatic updates of "Buy Now" prices based on auction activity. Crafted with seamless integration in mind, it serves as the backbone for web and mobile applications dedicated to conducting online auctions.
 
